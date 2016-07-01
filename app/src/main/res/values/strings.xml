@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HUGDemoApplication</string>
+    <string name="demo_string">This is a demo resource</string>
+
+    <!--Alias resources-->
+    <string name="hello">Hello ! This is from alias resource</string>
+    <string name="hello_alias">@string/hello</string>
+
+</resources>
